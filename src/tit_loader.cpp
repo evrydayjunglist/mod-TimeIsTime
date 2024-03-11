@@ -1,6 +1,6 @@
 void AddTimeIsTimeScripts();
 
-void Addmod_timeistimeScripts()
+void Addmod_TimeIsTimeScripts()
 {
     AddTimeIsTimeScripts();
 }
